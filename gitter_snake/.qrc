@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+	<qresource>
+	    <file>images/information.png</file>
+	    <file>images/door_out.png</file>
+	</qresource>
+</RCC>
